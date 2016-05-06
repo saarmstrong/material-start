@@ -21,7 +21,13 @@ System.config({
     "text": "github:systemjs/plugin-text@0.0.4",
     "traceur": "github:jmcriffey/bower-traceur@0.0.92",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.92",
+    "github:angular/bower-angular-animate@1.4.9": {
+      "angular": "github:angular/bower-angular@1.5.5"
+    },
     "github:angular/bower-angular-animate@1.5.5": {
+      "angular": "github:angular/bower-angular@1.5.5"
+    },
+    "github:angular/bower-angular-aria@1.4.9": {
       "angular": "github:angular/bower-angular@1.5.5"
     },
     "github:angular/bower-angular-aria@1.5.5": {
